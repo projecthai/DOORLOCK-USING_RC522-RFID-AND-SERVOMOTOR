@@ -6,7 +6,7 @@ MFRC522 mfrc522(SS_PIN, RST_PIN);
 int variable = 0;
 #include <Servo.h>
 
-Servo myservo;  /
+Servo myservo;  
 
 int pos = 0;    // variable to store the servo position
 
